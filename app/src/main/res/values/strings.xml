@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grocery Maker</string>
+
+    <string name="blank_frag">Nothing in List</string>
+    <string name="itemName">Banana</string>
+    <string name="itemQuantity">2</string>
+    <string name="itemPrice">17Rs</string>
+    <string name="totalCost">20</string>
+    <string name="costTitle">Total expenditure</string>
+    <string name="title">Item Name</string>
+    <string name="etItem">Item</string>
+    <string name="etQuantity">Quantity</string>
+    <string name="etPrice">Price</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
